@@ -15,7 +15,7 @@ header {
   margin: 3rem;
   border-radius: 10px;
   padding: 1rem;
-  background-color: #4fc08d;
+  background-color: magenta;
   color: white;
   text-align: center;
 }
@@ -36,5 +36,5 @@ header {
 }
 .active {
   background-color: magenta;
-  border: black;
+  border-color: black;
 }
